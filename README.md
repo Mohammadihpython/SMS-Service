@@ -1,4 +1,3 @@
-![An image of blue sticky notes on a wall with a yellow one standing out][image1]  
 **SMS SERVICE SYSTEM**
 
  
